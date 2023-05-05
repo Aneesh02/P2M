@@ -1,0 +1,15 @@
+Data/ShapeNetP2M/04256520/1a4a8592046253ab5ff61a3a2a0e2484/rendering/00.dat
+Data/ShapeNetP2M/04256520/1a4a8592046253ab5ff61a3a2a0e2484/rendering/01.dat
+Data/ShapeNetP2M/04256520/1a4a8592046253ab5ff61a3a2a0e2484/rendering/02.dat
+Data/ShapeNetP2M/04256520/1a4a8592046253ab5ff61a3a2a0e2484/rendering/03.dat
+Data/ShapeNetP2M/04256520/1a4a8592046253ab5ff61a3a2a0e2484/rendering/04.dat
+Data/ShapeNetP2M/04256520/1a04dcce7027357ab540cc4083acfa57/rendering/00.dat
+Data/ShapeNetP2M/04256520/1a04dcce7027357ab540cc4083acfa57/rendering/01.dat
+Data/ShapeNetP2M/04256520/1a04dcce7027357ab540cc4083acfa57/rendering/02.dat
+Data/ShapeNetP2M/04256520/1a04dcce7027357ab540cc4083acfa57/rendering/03.dat
+Data/ShapeNetP2M/04256520/1a04dcce7027357ab540cc4083acfa57/rendering/04.dat
+Data/ShapeNetP2M/04256520/1a9d0480b74d782698f5bccb3529a48d/rendering/00.dat
+Data/ShapeNetP2M/04256520/1a9d0480b74d782698f5bccb3529a48d/rendering/01.dat
+Data/ShapeNetP2M/04256520/1a9d0480b74d782698f5bccb3529a48d/rendering/02.dat
+Data/ShapeNetP2M/04256520/1a9d0480b74d782698f5bccb3529a48d/rendering/03.dat
+Data/ShapeNetP2M/04256520/1a9d0480b74d782698f5bccb3529a48d/rendering/04.dat
